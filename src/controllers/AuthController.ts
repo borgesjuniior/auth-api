@@ -26,7 +26,7 @@ class AuthController {
       return res.json({message: 'Incorrect password combination.'});
     }
 
-    const token = sign({ id: user.id}, 'secret', {
+    const token = sign({}, 'secret', {
       expiresIn: '1d',
     })
 
