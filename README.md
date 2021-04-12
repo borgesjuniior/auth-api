@@ -5,7 +5,6 @@ API Rest with JWT authentication
 ---
 # :rocket: Technology
 This project was developed with the following technologies:
-- [ReactJS](https://pt-br.reactjs.org)
 - [Typescript](typescriptlang.org/)
 - [JWT](https://jwt.io/)
 
